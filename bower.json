@@ -1,11 +1,11 @@
 {
-  "name": "ionic-rating",
+  "name": "appfactory-ionic-rating",
   "main": [
     "ionic-rating.js",
     "ionic-rating.css"
   ],
   "version": "0.3.0",
-  "homepage": "https://github.com/fraserxu/ionic-rating",
+  "homepage": "https://github.com/yehiasalam/ionic-rating",
   "authors": [
     "fraserxu <xvfeng123@gmail.com>"
   ],
